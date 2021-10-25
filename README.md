@@ -1,2 +1,3 @@
 # bg96_breakout
-schematic and board files for bg96 module
+Schematic and board files for bg96 module.
+Project link: https://oshwlab.com/franklinJunior/bg96_breakout
